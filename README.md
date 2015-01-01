@@ -1,4 +1,4 @@
 py-learn
 ========
 
-saple python codes for begginers
+sample python codes for begginers
