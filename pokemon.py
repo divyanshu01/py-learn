@@ -1,7 +1,7 @@
 print "you have arrived at your house in the hoenn region."
 print "when you hear a rucus outside..."
 print "you see the pokemon professor being chased by a poochyena!"
-print "he says get a pokemon out of his bag ad save him."
+print "he says get a pokemon out of his bag and save him."
 print "do you choose,"
 print "treeko,the grass pokemon."
 print "torchic,the fire pokemon"
