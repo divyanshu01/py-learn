@@ -1,4 +1,7 @@
 import math
-print "type a number and the cube of it will be the output"
-number = input('please write a prime number:')
-print math.pow(number,3)
+
+print("type a number and hit enter and the cube of it will be the output")
+
+number = input('type a prime number and hit enter:')
+
+print(math.pow(number, 3))
