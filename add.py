@@ -1,16 +1,14 @@
+import sys
+try:
+    a = int(input("first number: "))
+except ValueError:
+    print("not an integer")
+    sys.exit(1)
 
 try:
-    a = int(raw_input("first number: "))
-    print a
+    b = int(input("second number: "))
 except ValueError:
-    print " not an integer"
-    exit()
+    print("not an integer")
+    sys.exit(1)
 
-try:
-    b = int(raw_input("second number: "))
-    print b
-except ValueError:
-    print " not an integer"
-    exit()
-
-print a+b
+print(a+b)
