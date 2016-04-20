@@ -1,5 +1,5 @@
-print "so your going on a vacation eh?"
-print "well you need me"
+print("so your going on a vacation eh?")
+print("well you need me")
 cav = input("are you going in a coach or first class?\n")
 if cav.lower == "coach":
     scav = input("are you going to be in a penthouse or hotel:")
