@@ -53,3 +53,8 @@ Total 3 (delta 0), reused 0 (delta 0)
 To https://github.com/sanjaycal/py-learn.git
    34cdfe8..ce03d5e  master -> master
 
+
+
+
+The file was orignially created by sanjaycal and modified by divyanshu01 to make it python 3 compatible.
+No other logic has been changed, all the legacy python modules created by sanjaycal are not deleted. More python modules will be added soon.
